@@ -1,3 +1,4 @@
+Question:
 My friend Rohith loves to watch doreamon program. But doreamon program comes 
 after T minutes. So, rohith decides to play a candy game.
 The game as follows:
